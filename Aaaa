@@ -1,0 +1,10 @@
+"geode": "4.0.0",
+    "id": "my.cool.phone_mod",
+    "version": "v1.0.0",
+    "name": "My First Phone Mod",
+    "developer": "YourNickname",
+    "description": "Мод сделан прямо на телефоне!",
+    "resources": {
+        "files": []
+    }
+}
